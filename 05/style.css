@@ -1,3 +1,36 @@
 article {
     background:  #0000;;
+    display: flex;
+}
+
+header {
+    background-color: #89bcdd;
+}
+
+section.main {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+section.sources {
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 2px;
+    border-style: dotted;
+}
+
+img
+{
+    float: right;
+}
+
+h1 {
+    text-align: center;
+    color: 161170;
+}
+
+h2 {
+    text-align: center;
+    font-size: 16px;
+    color: 161170;
 }
